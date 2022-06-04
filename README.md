@@ -6,6 +6,7 @@ Przygotuj Dockerfile, który skopiuje pliki naszej aplikacji, zbuduję ją i uru
 
 Wymagania dot. dockefile:
 
+
 1. Uzyj obrazu `golang:1.17-alpine`
 2. Zbuduj aplikacje 
   - skopiuj pliki
